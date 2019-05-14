@@ -7,16 +7,16 @@ licensed under the permissive MIT license.
 
 ## Algorithms
 
-* [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - Advanced Encryption Standard.
-* [ARCFour](https://en.wikipedia.org/wiki/RC4) - Rivest Cipher 4.
-* [Base64](https://en.wikipedia.org/wiki/Base64) - Base64 Encoding.
-* [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - Blowfish Cipher.
-* [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard) - Data Encryption Standard.
-* [MD2](https://en.wikipedia.org/wiki/MD2_(hash_function)) - Message-Digest Algorithm 2.
-* [MD5](https://en.wikipedia.org/wiki/MD5) - Message-Digest Algorithm 5.
-* [ROT13](https://en.wikipedia.org/wiki/ROT13) - Rotate by 13 Places.
-* [SHA-1](https://en.wikipedia.org/wiki/SHA-1) - Secure Hash Algorithm 1.
-* [SHA-256](https://en.wikipedia.org/wiki/SHA-2) - Secure Hash Algorithm 2.
+* [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) 
+* [ARCFour](https://en.wikipedia.org/wiki/RC4) 
+* [Base64](https://en.wikipedia.org/wiki/Base64) 
+* [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)
+* [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard) 
+* [MD2](https://en.wikipedia.org/wiki/MD2_(hash_function)
+* [MD5](https://en.wikipedia.org/wiki/MD5) 
+* [ROT13](https://en.wikipedia.org/wiki/ROT13) 
+* [SHA-1](https://en.wikipedia.org/wiki/SHA-1) 
+* [SHA-256](https://en.wikipedia.org/wiki/SHA-2) 
 
 
 ### Compile the program
