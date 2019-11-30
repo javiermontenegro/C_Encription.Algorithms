@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:   sha1.c
-* Author:     Javier Montenegro (www.javiermontenegro.com)
+* Author:     Javier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:    Implementation of the SHA1 hashing algorithm.
               Algorithm specification can be found here:

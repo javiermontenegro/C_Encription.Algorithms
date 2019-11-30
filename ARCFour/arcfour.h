@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:   arcfour.h
-* Author:     Javier Montenegro (www.javiermontenegro.com)
+* Author:     Javier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:    Defines the API for the corresponding ARCFOUR implementation.
 *********************************************************************/

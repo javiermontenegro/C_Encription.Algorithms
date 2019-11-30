@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:   base64.c
-* AuthorJavier Montenegro (www.javiermontenegro.com)
+* AuthorJavier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:    Implementation of the Base64 encoding algorithm.
 *********************************************************************/

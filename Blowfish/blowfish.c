@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:   blowfish.c
-* Author:     Javier Montenegro (www.javiermontenegro.com)
+* Author:     Javier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:    Implementation of the Blowfish encryption algorithm.
               Modes of operation (such as CBC) are not included.

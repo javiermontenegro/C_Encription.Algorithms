@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:   aes.c
-* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Author:    Javier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:    This code is the implementation of the AES algorithm and
               the CTR, CBC, and CCM modes of operation it can be used in.

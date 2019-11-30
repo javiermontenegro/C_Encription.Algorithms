@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:   sha256.c
-* Author:     Javier Montenegro (www.javiermontenegro.com)
+* Author:     Javier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:    Implementation of the SHA-256 hashing algorithm.
               SHA-256 is one of the three algorithms in the SHA2

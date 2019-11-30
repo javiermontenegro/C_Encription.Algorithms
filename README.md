@@ -36,7 +36,7 @@ $ ./executable_script
 
 ## Author
 
-* **Javier Montenegro** - [javiermontenegro](https://github.com/javiermontenegro)
+* **Javier Montenegro** - [javiermontenegro](https://javiermontenegro.github.io/)
 
 ## License
 

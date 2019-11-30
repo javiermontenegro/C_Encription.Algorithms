@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:   des.h
-* Author:     Javier Montenegro (www.javiermontenegro.com)
+* Author:     Javier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:    Defines the API for the corresponding DES implementation.
               Note that encryption and decryption are defined by how
