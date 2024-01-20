@@ -18,6 +18,14 @@ licensed under the permissive MIT license.
 * [SHA-1](https://en.wikipedia.org/wiki/SHA-1) 
 * [SHA-256](https://en.wikipedia.org/wiki/SHA-2) 
 
+### How to use this project
+
+Clone the repository:
+```
+$ git clone ssh://git@github.com/javiermontenegro/C_Encryption.Algorithms.git
+```
+
+Or else simply download zip file from [this link](https://codeload.github.com/javiermontenegro/C_Encryption.Algorithms/zip/refs/heads/master).
 
 ### Compile the program
 
